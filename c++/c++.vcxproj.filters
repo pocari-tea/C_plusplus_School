@@ -1,0 +1,405 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\190305">
+      <UniqueIdentifier>{6fc3814d-5385-43b5-b91f-3ae1537ae0a3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\190306">
+      <UniqueIdentifier>{c06333d9-a63f-4252-9dc9-5c81895f62dd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\190307">
+      <UniqueIdentifier>{863f04f8-499b-41e4-9946-36afc8566d01}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\190312">
+      <UniqueIdentifier>{d48754ba-fcda-4e53-ac57-24e34830f394}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\190313">
+      <UniqueIdentifier>{efcbe3c6-8e48-4dfd-93d7-b8f698fc7209}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\190314">
+      <UniqueIdentifier>{eb4d946a-d5ba-42fd-9edf-14e735963d20}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\190319">
+      <UniqueIdentifier>{099ecc73-b2b1-49b9-8b82-ce516968478c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\190320">
+      <UniqueIdentifier>{75150e84-d94a-4bf6-af0c-600fc66ded84}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\190321">
+      <UniqueIdentifier>{d0bc84af-30d9-411d-932c-28deea5a4c54}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\190326">
+      <UniqueIdentifier>{e85ff235-2573-4c9b-a882-c6194a3aa074}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\190327">
+      <UniqueIdentifier>{0703e4e4-61fb-40f8-a232-82f4c33b3367}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\190328">
+      <UniqueIdentifier>{2712baab-7ed2-44d9-ac32-cdca77de5002}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\190402">
+      <UniqueIdentifier>{a615d3ac-7844-4854-90f3-6fa599af0c1a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\190404">
+      <UniqueIdentifier>{7b60e597-b4b4-49dd-a9b1-d767ce05fea6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\190409">
+      <UniqueIdentifier>{07d40179-7e18-44e1-8bc0-5cc8b12b4b90}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\190410">
+      <UniqueIdentifier>{9b082e49-bd8a-44f1-ad62-11402cd378c0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\190411">
+      <UniqueIdentifier>{2e7f05dc-2a56-4e2e-90f3-a7bc94c1005f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\190416">
+      <UniqueIdentifier>{169ee5ce-1b4c-4d3d-bc4d-9bcd4cec92fe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\190417">
+      <UniqueIdentifier>{61abefa9-4779-49a1-a630-6e60e7fbe502}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\190418">
+      <UniqueIdentifier>{8536d429-04de-4d52-bd31-9af1decb565c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\190418\01.Core">
+      <UniqueIdentifier>{e5939adb-30b5-456b-82ad-7b08fbd9ad27}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\190423">
+      <UniqueIdentifier>{b1f6f396-e988-4023-83b6-743a733444a3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\190424">
+      <UniqueIdentifier>{6757385e-3b48-4d94-887a-8700cb36c7b8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\190425">
+      <UniqueIdentifier>{9b6193a5-91d2-4f66-85c4-b0c066ca0a88}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\190430">
+      <UniqueIdentifier>{057152f1-1953-419f-b4f1-fb6c9cf117a7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\190501">
+      <UniqueIdentifier>{a2435f50-b447-465c-8e40-4e1796ea1eaa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\190613">
+      <UniqueIdentifier>{fabbd3bf-1332-48e0-a98a-e0c601acfdca}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\190618">
+      <UniqueIdentifier>{6017892e-cddd-40ec-b6ea-924bb115fdb4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="HelloCpp.cpp">
+      <Filter>소스 파일\190305</Filter>
+    </ClCompile>
+    <ClCompile Include="CoutSample.cpp">
+      <Filter>소스 파일\190305</Filter>
+    </ClCompile>
+    <ClCompile Include="CoutString.cpp">
+      <Filter>소스 파일\190305</Filter>
+    </ClCompile>
+    <ClCompile Include="myname.cpp">
+      <Filter>소스 파일\190305</Filter>
+    </ClCompile>
+    <ClCompile Include="AutoSample.cpp">
+      <Filter>소스 파일\190305</Filter>
+    </ClCompile>
+    <ClCompile Include="caculator.cpp">
+      <Filter>소스 파일\190305</Filter>
+    </ClCompile>
+    <ClCompile Include="dog.cpp">
+      <Filter>소스 파일\190305</Filter>
+    </ClCompile>
+    <ClCompile Include="star.cpp">
+      <Filter>소스 파일\190305</Filter>
+    </ClCompile>
+    <ClCompile Include="ASCII.cpp">
+      <Filter>소스 파일\190306</Filter>
+    </ClCompile>
+    <ClCompile Include="new.cpp">
+      <Filter>소스 파일\190306</Filter>
+    </ClCompile>
+    <ClCompile Include="ndata.cpp">
+      <Filter>소스 파일\190306</Filter>
+    </ClCompile>
+    <ClCompile Include="rParam.cpp">
+      <Filter>소스 파일\190306</Filter>
+    </ClCompile>
+    <ClCompile Include="auto.cpp">
+      <Filter>소스 파일\190306</Filter>
+    </ClCompile>
+    <ClCompile Include="practice_3.cpp">
+      <Filter>소스 파일\190306</Filter>
+    </ClCompile>
+    <ClCompile Include="practice_4.cpp">
+      <Filter>소스 파일\190306</Filter>
+    </ClCompile>
+    <ClCompile Include="practice_6.cpp">
+      <Filter>소스 파일\190306</Filter>
+    </ClCompile>
+    <ClCompile Include="default.cpp">
+      <Filter>소스 파일\190307</Filter>
+    </ClCompile>
+    <ClCompile Include="default2.cpp">
+      <Filter>소스 파일\190307</Filter>
+    </ClCompile>
+    <ClCompile Include="overloading.cpp">
+      <Filter>소스 파일\190307</Filter>
+    </ClCompile>
+    <ClCompile Include="Func.cpp">
+      <Filter>소스 파일\190307</Filter>
+    </ClCompile>
+    <ClCompile Include="template.cpp">
+      <Filter>소스 파일\190307</Filter>
+    </ClCompile>
+    <ClCompile Include="template2.cpp">
+      <Filter>소스 파일\190307</Filter>
+    </ClCompile>
+    <ClCompile Include="namespace.cpp">
+      <Filter>소스 파일\190307</Filter>
+    </ClCompile>
+    <ClCompile Include="namespace2.cpp">
+      <Filter>소스 파일\190307</Filter>
+    </ClCompile>
+    <ClCompile Include="practice1.cpp">
+      <Filter>소스 파일\190312</Filter>
+    </ClCompile>
+    <ClCompile Include="class1.cpp">
+      <Filter>소스 파일\190312</Filter>
+    </ClCompile>
+    <ClCompile Include="class2.cpp">
+      <Filter>소스 파일\190312</Filter>
+    </ClCompile>
+    <ClCompile Include="private.cpp">
+      <Filter>소스 파일\190313</Filter>
+    </ClCompile>
+    <ClCompile Include="constructor01.cpp">
+      <Filter>소스 파일\190313</Filter>
+    </ClCompile>
+    <ClCompile Include="memberinit01.cpp">
+      <Filter>소스 파일\190313</Filter>
+    </ClCompile>
+    <ClCompile Include="memberinit02.cpp">
+      <Filter>소스 파일\190313</Filter>
+    </ClCompile>
+    <ClCompile Include="constructor03.cpp">
+      <Filter>소스 파일\190314</Filter>
+    </ClCompile>
+    <ClCompile Include="Constructor02.cpp">
+      <Filter>소스 파일\190313</Filter>
+    </ClCompile>
+    <ClCompile Include="constructor04.cpp">
+      <Filter>소스 파일\190314</Filter>
+    </ClCompile>
+    <ClCompile Include="malloc01.cpp">
+      <Filter>소스 파일\190314</Filter>
+    </ClCompile>
+    <ClCompile Include="constructor05.cpp">
+      <Filter>소스 파일\190314</Filter>
+    </ClCompile>
+    <ClCompile Include="RefSample02.cpp">
+      <Filter>소스 파일\190314</Filter>
+    </ClCompile>
+    <ClCompile Include="RefSample01.cpp">
+      <Filter>소스 파일\190314</Filter>
+    </ClCompile>
+    <ClCompile Include="constructorover01.cpp">
+      <Filter>소스 파일\190314</Filter>
+    </ClCompile>
+    <ClCompile Include="constructorover02.cpp">
+      <Filter>소스 파일\190314</Filter>
+    </ClCompile>
+    <ClCompile Include="thisPointer.cpp">
+      <Filter>소스 파일\190319</Filter>
+    </ClCompile>
+    <ClCompile Include="age.cpp">
+      <Filter>소스 파일\190320</Filter>
+    </ClCompile>
+    <ClCompile Include="ConstMethod1.cpp">
+      <Filter>소스 파일\190320</Filter>
+    </ClCompile>
+    <ClCompile Include="ConstMethod2.cpp">
+      <Filter>소스 파일\190320</Filter>
+    </ClCompile>
+    <ClCompile Include="ConstCastSample.cpp">
+      <Filter>소스 파일\190320</Filter>
+    </ClCompile>
+    <ClCompile Include="MemberNotOver.cpp">
+      <Filter>소스 파일\190321</Filter>
+    </ClCompile>
+    <ClCompile Include="MemberOver1.cpp">
+      <Filter>소스 파일\190321</Filter>
+    </ClCompile>
+    <ClCompile Include="SaticMember.cpp">
+      <Filter>소스 파일\190321</Filter>
+    </ClCompile>
+    <ClCompile Include="practice01.cpp">
+      <Filter>소스 파일\190321</Filter>
+    </ClCompile>
+    <ClCompile Include="ClassNew.cpp">
+      <Filter>소스 파일\190326</Filter>
+    </ClCompile>
+    <ClCompile Include="Class.cpp">
+      <Filter>소스 파일\190326</Filter>
+    </ClCompile>
+    <ClCompile Include="robot.cpp">
+      <Filter>소스 파일\190326</Filter>
+    </ClCompile>
+    <ClCompile Include="CTest.cpp">
+      <Filter>소스 파일\190326</Filter>
+    </ClCompile>
+    <ClCompile Include="CopyConstructor1.cpp">
+      <Filter>소스 파일\190327</Filter>
+    </ClCompile>
+    <ClCompile Include="FunctionAndClass.cpp">
+      <Filter>소스 파일\190327</Filter>
+    </ClCompile>
+    <ClCompile Include="CPerson.cpp">
+      <Filter>소스 파일\190327</Filter>
+    </ClCompile>
+    <ClCompile Include="ShallowCopy.cpp">
+      <Filter>소스 파일\190328</Filter>
+    </ClCompile>
+    <ClCompile Include="CopyConstructor01.cpp">
+      <Filter>소스 파일\190328</Filter>
+    </ClCompile>
+    <ClCompile Include="CopyConstructor02.cpp">
+      <Filter>소스 파일\190328</Filter>
+    </ClCompile>
+    <ClCompile Include="ShallowCopy1.cpp">
+      <Filter>소스 파일\190328</Filter>
+    </ClCompile>
+    <ClCompile Include="ShallowCopy01.cpp">
+      <Filter>소스 파일\190402</Filter>
+    </ClCompile>
+    <ClCompile Include="ImTypeCast.cpp">
+      <Filter>소스 파일\190402</Filter>
+    </ClCompile>
+    <ClCompile Include="AutoTypecast.cpp">
+      <Filter>소스 파일\190402</Filter>
+    </ClCompile>
+    <ClCompile Include="TempObject.cpp">
+      <Filter>소스 파일\190402</Filter>
+    </ClCompile>
+    <ClCompile Include="TempObject01.cpp">
+      <Filter>소스 파일\190404</Filter>
+    </ClCompile>
+    <ClCompile Include="RvalueRef1.cpp">
+      <Filter>소스 파일\190404</Filter>
+    </ClCompile>
+    <ClCompile Include="RvalueRef2.cpp">
+      <Filter>소스 파일\190404</Filter>
+    </ClCompile>
+    <ClCompile Include="RvalueRef3.cpp">
+      <Filter>소스 파일\190404</Filter>
+    </ClCompile>
+    <ClCompile Include="MoveSemantics.cpp">
+      <Filter>소스 파일\190404</Filter>
+    </ClCompile>
+    <ClCompile Include="classcopy.cpp">
+      <Filter>소스 파일\190409</Filter>
+    </ClCompile>
+    <ClCompile Include="OperOverArithmetic.cpp">
+      <Filter>소스 파일\190409</Filter>
+    </ClCompile>
+    <ClCompile Include="OperOverAssign.cpp">
+      <Filter>소스 파일\190410</Filter>
+    </ClCompile>
+    <ClCompile Include="OperOverAssignMove.cpp">
+      <Filter>소스 파일\190410</Filter>
+    </ClCompile>
+    <ClCompile Include="OperOverArray.cpp">
+      <Filter>소스 파일\190411</Filter>
+    </ClCompile>
+    <ClCompile Include="OperOverIncrement.cpp">
+      <Filter>소스 파일\190411</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>소스 파일\190416</Filter>
+    </ClCompile>
+    <ClCompile Include="figure.cpp">
+      <Filter>소스 파일\190417</Filter>
+    </ClCompile>
+    <ClCompile Include="VirtualFunction.cpp">
+      <Filter>소스 파일\190418</Filter>
+    </ClCompile>
+    <ClCompile Include="TextRPG.cpp">
+      <Filter>소스 파일\190418</Filter>
+    </ClCompile>
+    <ClCompile Include="CCore.cpp">
+      <Filter>소스 파일\190418\01.Core</Filter>
+    </ClCompile>
+    <ClCompile Include="MethodOver2.cpp">
+      <Filter>소스 파일\190423</Filter>
+    </ClCompile>
+    <ClCompile Include="MethodOver1.cpp">
+      <Filter>소스 파일\190423</Filter>
+    </ClCompile>
+    <ClCompile Include="VirtualDestructor.cpp">
+      <Filter>소스 파일\190423</Filter>
+    </ClCompile>
+    <ClCompile Include="vTableSample.cpp">
+      <Filter>소스 파일\190423</Filter>
+    </ClCompile>
+    <ClCompile Include="PureVirtualSample.cpp">
+      <Filter>소스 파일\190424</Filter>
+    </ClCompile>
+    <ClCompile Include="InterfaceSample.cpp">
+      <Filter>소스 파일\190424</Filter>
+    </ClCompile>
+    <ClCompile Include="AdtSample.cpp">
+      <Filter>소스 파일\190425</Filter>
+    </ClCompile>
+    <ClCompile Include="CastSample1.cpp">
+      <Filter>소스 파일\190425</Filter>
+    </ClCompile>
+    <ClCompile Include="InheritOperOVer.cpp">
+      <Filter>소스 파일\190430</Filter>
+    </ClCompile>
+    <ClCompile Include="MultiInherit1.cpp">
+      <Filter>소스 파일\190501</Filter>
+    </ClCompile>
+    <ClCompile Include="MultiInherit2.cpp">
+      <Filter>소스 파일\190501</Filter>
+    </ClCompile>
+    <ClCompile Include="FriendFunction.cpp">
+      <Filter>소스 파일\190613</Filter>
+    </ClCompile>
+    <ClCompile Include="FriendClass1.cpp">
+      <Filter>소스 파일\190613</Filter>
+    </ClCompile>
+    <ClCompile Include="FriendClass2.cpp">
+      <Filter>소스 파일\190613</Filter>
+    </ClCompile>
+    <ClCompile Include="templateSample1.cpp">
+      <Filter>소스 파일\190618</Filter>
+    </ClCompile>
+    <ClCompile Include="templateSample2.cpp">
+      <Filter>소스 파일\190618</Filter>
+    </ClCompile>
+    <ClCompile Include="TemplateArray.cpp">
+      <Filter>소스 파일\190618</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="value.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="defines.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="CCore.h">
+      <Filter>소스 파일\190418\01.Core</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
